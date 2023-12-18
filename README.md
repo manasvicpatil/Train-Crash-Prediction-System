@@ -15,7 +15,8 @@ While this project remains under development, I'm committed to continuous explor
     An Investigation of Machine Learning for Predicting Train Accidents: [[https://arxiv.org/abs/2207.14255](https://arxiv.org/abs/2207.14255)]
     
 # Simulation Tools: 
-{https://github.com/topics/train-simulator](https://github.com/topics/train-simulator}
+
+```https://github.com/topics/train-simulator](https://github.com/topics/train-simulator```
 
 This project signifies my deep commitment to harnessing technology to promote safety in the railway sector. Please stay tuned for future updates as I strive to bring this impactful system to fruition.
 
